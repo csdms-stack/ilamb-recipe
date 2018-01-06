@@ -7,6 +7,7 @@ env:
   - CONDA_PREFIX=$HOME/conda
   - MINICONDA_URL_BASE="https://repo.continuum.io/miniconda/Miniconda2-latest"
   - TRAVIS_PYTHON_VERSION="2.7"
+  - secure: "wZhT7d63wQi6G/TwgOOdF26PXZaTU/6E+WdJz1zVlkF6h3xhESgUYvZisbUsTeL2a22llLbupTJ+krHwyg28tAs3LodcP3LVLZw8xWl25kSqc7K2nxafUQlt0sxLlUx0CEGlBgLPbDYyjkjWYV7+/bkT6tVoba/ZZzCQb+/MQCMLHDvAMpVVuJmV2ZYaZR/C287QyEGQRJJgXHYYm2el5pX8M0ecWTO3oZevSb9tK1mktOavr1COKshUq6IALZ8g4lgsjlokhqQ9bUxlSE6/bd3lrjoPy6yQiYdbf4W1u7d4X9Jytjf1/BvM3BpdKWHHcBCtF1mKXvOxQhVrdBWS4KzZfsJyIIvBzwWQxvVtzydw1+5+Ifzb6sf1vY8vQsJZz6isnloSKlMK/aN7DAT3EQa/dNWDrb6NAexdBRMCBA/4ecR5PzaApfjMSpDhdAEd09FfiO+JZpNekwL3SOvG1diylbP4TMOfUkA/AeluG8ssKiUn4302yjDASziOyYFlNYYJNSGQ+qWVKgRpvVMDMdwPCnqtn6Wx1KlDKQegs4mRejryrU/xwmLDoLJADhGbwlvF71eQeDF/KLgbE/0iFHJZ9spnYwv9RlzyVSLOnVcFsdHeLt20TO58Ivpcwmhs66QqoLuwgDvePyCaRP6Pblzmm1KrsXW0S0ZrMt3kcgY="
 sudo: false
 before_install:
 - |
