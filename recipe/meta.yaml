@@ -28,12 +28,6 @@ requirements:
     - matplotlib
     - basemap
 
-test:
-  imports:
-    - ILAMB
-  commands:
-    - ilamb-run --help
-
 about:
   home: https://csdms.colorado.edu/wiki/Model:ILAMB
   license:
