@@ -21,6 +21,7 @@ requirements:
   run:
     - python
     - numpy
+    - scipy
     - netcdf4
     - sympy
     - mpi4py
