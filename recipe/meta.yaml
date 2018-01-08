@@ -1,5 +1,5 @@
 {% set name = "ilamb" %}
-{% set version = "2.1" %}
+{% set version = "2.2" %}
 
 package:
   name: {{ name }}
